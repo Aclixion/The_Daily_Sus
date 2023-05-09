@@ -1,8 +1,8 @@
 /* RESET STYLES */
 * {
+    box-sizing: border-box;
     margin: 0;
     padding: 0;
-    box-sizing: border-box;
 }
 
 /* ROOT STYLES */
@@ -18,9 +18,9 @@ a {
 /* MAIN NAVBAR STYLES */
 .main-nav {
     align-items: center;
+    background-color: #3c4380;
     display: flex;
     justify-content: space-between;
-    background-color: #3c4380;
 }
 
 .main-nav-links {
