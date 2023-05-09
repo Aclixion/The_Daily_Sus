@@ -10,6 +10,11 @@
     font-size: 20px;
 }
 
+/* MAIN STYLES */
+a {
+    text-decoration: none;
+}
+
 /* MAIN NAVBAR STYLES */
 .main-nav {
     align-items: center;
