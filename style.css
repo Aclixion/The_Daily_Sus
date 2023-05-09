@@ -26,7 +26,6 @@ a {
 
 .main-nav-links {
     display: flex;
-    gap: 0.5rem;
 }
 
 .main-nav-link {
