@@ -9,3 +9,10 @@
 :root {
     font-size: 20px;
 }
+
+/* MAIN NAVBAR STYLES */
+.main-nav {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
