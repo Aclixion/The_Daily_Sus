@@ -16,3 +16,8 @@
     display: flex;
     justify-content: space-between;
 }
+
+.main-nav-links {
+    display: flex;
+    gap: 0.5rem;
+}
