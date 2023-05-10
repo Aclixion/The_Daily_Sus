@@ -29,6 +29,7 @@ a {
 
 /* NEWS NAVBAR STYLES */
 .news-nav {
+    background-color: #2f3566;
     display: flex;
     justify-content: space-around;
 }
