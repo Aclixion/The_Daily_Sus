@@ -26,3 +26,9 @@ a {
 .site-logo {
     padding: 0.25rem 0.50rem;
 }
+
+/* NEWS NAVBAR STYLES */
+.news-nav {
+    display: flex;
+    justify-content: space-around;
+}
