@@ -36,3 +36,7 @@ a {
     font-size: 2.5rem;
     padding: 1.0rem 1.0rem;
 }
+
+.main-nav-link:hover {
+    background-color: #4f58a9;
+}
