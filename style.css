@@ -20,7 +20,7 @@ a {
     align-items: center;
     background-color: #3c4380;
     display: flex;
-    justify-content: space-between;
+    justify-content: center;
 }
 
 .site-logo {
