@@ -39,3 +39,7 @@ a {
     color: #FFFFFF;
     padding: 0.5rem 0;
 }
+
+.news-nav-link:hover {
+    border-bottom: 0.2rem solid #FFFFFF;
+}
