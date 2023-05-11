@@ -36,6 +36,7 @@ a {
 }
 
 .news-nav-link {
+    border-bottom: 0.2rem solid #2f3566;
     color: #FFFFFF;
     padding: 0.5rem 0;
 }
