@@ -16,7 +16,7 @@ a {
 }
 
 /* MAIN NAVBAR STYLES */
-.main-nav {
+.site-header {
     align-items: center;
     background-color: #3c4380;
     display: flex;
