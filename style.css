@@ -11,6 +11,10 @@
 }
 
 /* MAIN STYLES */
+body {
+    background-color: #d0d0d0;
+}
+
 a {
     text-decoration: none;
 }
