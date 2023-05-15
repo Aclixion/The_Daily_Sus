@@ -19,6 +19,10 @@ a {
     text-decoration: none;
 }
 
+.section-heading {
+    font-size: 2.5rem;
+}
+
 /* HEADER STYLES */
 .site-header {
     align-items: center;
