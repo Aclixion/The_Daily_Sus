@@ -98,3 +98,7 @@ a {
     background-size: cover;
     padding-top: 2.0rem;
 }
+
+.trending-two .story-title, .trending-three .story-title {
+    font-size: 1.5rem;
+}
