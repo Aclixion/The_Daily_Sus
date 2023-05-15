@@ -76,3 +76,21 @@ a {
     padding: 0.50rem;
     text-align: left;
 }
+
+.trending-one {
+    background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%), url("Images/trending_article_images/trending_1.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.trending-two {
+    background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%), url("Images/trending_article_images/trending_2.png");
+    background-position: center;
+    background-size: cover;
+}
+
+.trending-three {
+    background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%), url("Images/trending_article_images/trending_3.png");
+    background-position: center;
+    background-size: cover;
+}
