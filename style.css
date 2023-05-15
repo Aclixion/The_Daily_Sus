@@ -63,3 +63,7 @@ a {
     flex-direction: column;
     justify-content: flex-end;
 }
+
+.story-title {
+    color: #FFFFFF;
+}
