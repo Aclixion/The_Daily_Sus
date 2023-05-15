@@ -48,3 +48,10 @@ a {
 .news-nav-link:hover {
     border-bottom: 0.2rem solid #FFFFFF;
 }
+
+/* TRENDING ARTICLE STYLES */
+.trending {
+    display: grid;
+    gap: 0.50rem;
+    grid-template-columns: 2fr 1fr;
+}
