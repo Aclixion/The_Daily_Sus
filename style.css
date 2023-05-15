@@ -23,6 +23,10 @@ a {
     font-size: 2.5rem;
 }
 
+.heading-divider {
+    border: none;
+}
+
 /* HEADER STYLES */
 .site-header {
     align-items: center;
