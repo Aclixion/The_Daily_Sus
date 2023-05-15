@@ -24,6 +24,7 @@ a {
 }
 
 .heading-divider {
+    background-color: #3c4380;
     border: none;
     padding: 0.10rem;
 }
