@@ -54,5 +54,6 @@ a {
     display: grid;
     gap: 0.50rem;
     grid-template-columns: 2fr 1fr;
+    margin: auto;
     width: 60%;
 }
