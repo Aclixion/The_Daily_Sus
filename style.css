@@ -50,7 +50,7 @@ a {
 }
 
 /* TRENDING SECTION STYLES */
-.trending {
+.trending-articles {
     display: grid;
     gap: 0.50rem;
     grid-template-columns: 2fr 1fr;
