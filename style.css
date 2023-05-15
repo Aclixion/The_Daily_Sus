@@ -81,6 +81,8 @@ a {
     background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,1) 100%), url("Images/trending_article_images/trending_1.png");
     background-position: center;
     background-size: cover;
+    grid-row-end: 3;
+    grid-row-start: 1;
 }
 
 .trending-two {
