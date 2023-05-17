@@ -130,3 +130,7 @@ main {
 .weather {
     text-align: center;
 }
+
+.additional-info {
+    list-style: none;
+}
