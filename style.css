@@ -134,3 +134,9 @@ main {
 .additional-info {
     list-style: none;
 }
+
+.future-weather {
+    display: flex;
+    gap: 0.5rem;
+    justify-content: center;
+}
