@@ -131,10 +131,6 @@ main {
     text-align: center;
 }
 
-.additional-info {
-    list-style: none;
-}
-
 .future-weather {
     display: flex;
     gap: 0.5rem;
