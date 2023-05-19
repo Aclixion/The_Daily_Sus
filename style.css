@@ -25,9 +25,11 @@ main {
 }
 
 .left {
+    width: 80rem;
 }
 
 .right {
+    width: 30rem;
 }
 
 .section-heading {
