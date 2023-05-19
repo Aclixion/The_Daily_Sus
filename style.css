@@ -137,6 +137,11 @@ main {
     gap: 0.25rem;
 }
 
+.additional-info-field {
+    background-color: #3c4380;
+    color: #FFFFFF;
+}
+
 .additional-info-name {
     font-size: 1.90rem;
 }
