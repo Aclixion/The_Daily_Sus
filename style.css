@@ -131,6 +131,12 @@ main {
     text-align: center;
 }
 
+.additional-info {
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    gap: 0.25rem;
+}
+
 .future-weather {
     display: flex;
     gap: 0.5rem;
