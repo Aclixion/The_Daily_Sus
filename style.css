@@ -129,6 +129,10 @@ main {
 
 /* WEATHER SECTION STYLES */
 
+.current-weather, .additional-info {
+    text-align: center;
+}
+
 .additional-info {
     display: grid;
     grid-template-columns: repeat(2, 1fr);
