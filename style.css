@@ -128,9 +128,6 @@ main {
 }
 
 /* WEATHER SECTION STYLES */
-.weather {
-    text-align: center;
-}
 
 .additional-info {
     display: grid;
