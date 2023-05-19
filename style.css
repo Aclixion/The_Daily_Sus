@@ -137,6 +137,10 @@ main {
     gap: 0.25rem;
 }
 
+.additional-info-name {
+    font-size: 1.90rem;
+}
+
 .future-weather {
     display: flex;
     gap: 0.5rem;
