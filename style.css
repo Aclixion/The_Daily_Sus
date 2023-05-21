@@ -44,6 +44,11 @@ main {
     padding: 0.10rem;
 }
 
+.news-stories {
+    display: flex;
+    justify-content: space-between;
+}
+
 /* HEADER STYLES */
 .site-header {
     align-items: center;
