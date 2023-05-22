@@ -132,6 +132,13 @@ main {
     font-size: 1.5rem;
 }
 
+/* ARTICLES SECTION STYLES */
+.articles-section-header {
+    align-items: center;
+    display: flex;
+    justify-content: space-between;
+}
+
 /* WEATHER SECTION STYLES */
 
 .current-weather, .additional-info {
