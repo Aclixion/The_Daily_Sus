@@ -147,6 +147,7 @@ main {
 .see-more {
     background-color: #3c4380;
     color: #FFFFFF;
+    padding: 0.4rem;
 }
 
 /* WEATHER SECTION STYLES */
