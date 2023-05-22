@@ -1,6 +1,7 @@
 /* RESET STYLES */
 * {
     box-sizing: border-box;
+    font-family: Geneva, sans-serif;
     margin: 0;
     padding: 0;
 }
