@@ -144,6 +144,11 @@ main {
     justify-content: space-between;
 }
 
+.see-more {
+    background-color: #3c4380;
+    color: #FFFFFF;
+}
+
 /* WEATHER SECTION STYLES */
 
 .current-weather, .additional-info {
