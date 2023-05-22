@@ -26,6 +26,9 @@ main {
 }
 
 .left {
+    display: flex;
+    flex-direction: column;
+    gap: 2.0rem;
     width: 80rem;
 }
 
