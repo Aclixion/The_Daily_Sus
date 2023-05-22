@@ -146,6 +146,7 @@ main {
 
 .see-more {
     background-color: #3c4380;
+    border-radius: 0.35rem;
     color: #FFFFFF;
     padding: 0.4rem;
 }
